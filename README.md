@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/gustavo-nt/ignite-watchme/blob/master/src/assets/logo.png" alt="logo" height="175"/>
+  <img src="https://github.com/gustavo-nt/ignite-to.do/blob/master/public/assets/icon-list.png" alt="logo" height="175"/>
 </h4>
 
 <h1 align="center">
@@ -29,12 +29,13 @@
 - [x] Adição de tarefas
 - [x] Listagem de tarefas
 - [x] Marcar tarefa concluída
+- [x] Remoção de uma tarefa
 
 ### 💻 Projeto
 O to.do é uma aplicação para adições de tarefas em um lista, onde o usuário consegue marcar aqueles itens já concluídos. Esse Projeto foi desenvolvido como desafio complementar da Semana 01 do Bootcamp Ignite.
 
 ### ✅ Demonstração
-<img src="https://github.com/gustavo-nt/ignite-watchme/blob/master/src/assets/watchme.png" />
+<img src="https://github.com/gustavo-nt/ignite-to.do/blob/master/public/assets/home.png" />
 
 ### ⚙ Pré-requisitos
 
