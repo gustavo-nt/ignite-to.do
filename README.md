@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/gustavo-nt/ignite-to.do/blob/master/public/assets/icon-list.png" alt="logo" height="175"/>
+  <img src="https://github.com/gustavo-nt/ignite-to.do/blob/master/public/assets/icon-list.png" alt="logo" height="150"/>
 </h4>
 
 <h1 align="center">
